@@ -23,4 +23,4 @@
 * Карта: Генерируется процедурно при каждом запуске.
 
 ## 🚀 Как играть
-Игра доступна прямо в браузере по ссылке: https://github.com/redraven-games/Pixel-Hero
+Игра доступна прямо в браузере по ссылке: https://redraven-games.github.io/Pixel-Hero/».
